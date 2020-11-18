@@ -1,4 +1,4 @@
-## React photo gallery with Tensorflow predictions
+## React photo gallery with Tensorflow (ML) predictions
 
 ![](https://github.com/girls-incode/react-tensorflow-photogallery/blob/master/girlsincode-react-gallery-login-register.gif)
 ![](https://github.com/girls-incode/react-tensorflow-photogallery/blob/master/girlsincode-react-photogallery-tensorflow-1.jpg)
