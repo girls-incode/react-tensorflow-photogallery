@@ -25,7 +25,7 @@
   "scripts": {
     "build:css": "postcss src/assets/css/tailwind.css -o src/assets/css/style.css",
     "start": "npm run build:css && react-scripts start",
-    "build": "react-scripts build",
+    "build": "npx browserslist --update-db && react-scripts build && npm run start",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
